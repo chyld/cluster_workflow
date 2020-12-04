@@ -98,3 +98,8 @@ Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you 
 [I 2020-12-04 00:07:53.455 ServerApp] Starting buffering for 4c4b6079-c051-4c47-ac6f-6bd1e8aeb205:58e61503-8305-423f-bd67-4bc9debae9ae
 [I 2020-12-04 00:07:53.456 ServerApp] Starting buffering for a2a7a7d8-b838-47d8-85fb-5a1998e369ed:49169e9c-aa10-4dfe-b46d-e17af8503199
 [I 2020-12-04 00:07:53.456 ServerApp] Starting buffering for e58ef798-dd21-48af-87e9-f5764458cfb9:689e055d-6abb-4f55-990b-11396913c601
+[C 2020-12-04 00:11:07.581 ServerApp] received signal 15, stopping
+[I 2020-12-04 00:11:07.582 ServerApp] Shutting down 3 kernels
+[I 2020-12-04 00:11:08.798 ServerApp] Kernel shutdown: e58ef798-dd21-48af-87e9-f5764458cfb9
+[I 2020-12-04 00:11:08.798 ServerApp] Kernel shutdown: a2a7a7d8-b838-47d8-85fb-5a1998e369ed
+[I 2020-12-04 00:11:08.799 ServerApp] Kernel shutdown: 4c4b6079-c051-4c47-ac6f-6bd1e8aeb205
