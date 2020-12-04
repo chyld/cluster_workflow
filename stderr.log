@@ -1,0 +1,100 @@
+[W 2020-12-03 23:11:50.087 LabApp] 'token' has moved from LabApp to ServerApp. Be sure to update your config before our next release.
+[I 2020-12-03 23:11:50.094 ServerApp] jupyterlab | extension was successfully linked.
+[I 2020-12-03 23:11:50.438 ServerApp] nbclassic | extension was successfully linked.
+[W 2020-12-03 23:11:50.499 ServerApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 2020-12-03 23:11:50.508 LabApp] JupyterLab extension loaded from /home/chyld/.local/miniconda3/envs/alpha/lib/python3.8/site-packages/jupyterlab
+[I 2020-12-03 23:11:50.508 LabApp] JupyterLab application directory is /home/chyld/.local/miniconda3/envs/alpha/share/jupyter/lab
+[I 2020-12-03 23:11:50.511 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2020-12-03 23:11:50.521 ServerApp] nbclassic | extension was successfully loaded.
+[I 2020-12-03 23:11:50.521 ServerApp] Serving notebooks from local directory: /home/chyld/Play/tmp.chromium.43db44f163
+[I 2020-12-03 23:11:50.521 ServerApp] Jupyter Server 1.0.5 is running at:
+[I 2020-12-03 23:11:50.521 ServerApp] http://luna:7413/lab
+[I 2020-12-03 23:11:50.521 ServerApp]  or http://127.0.0.1:7413/lab
+[I 2020-12-03 23:11:50.521 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2020-12-03 23:11:53.405 ServerApp] 404 GET /static/favicons/favicon.ico (127.0.0.1) 16.62ms referer=http://0.0.0.0:7413/lab
+Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 2020-12-03 23:11:56.538 LabApp] Build is up to date
+[W 2020-12-03 23:11:57.600 ServerApp] 404 GET /api/contents/data?1607065917597 (127.0.0.1): No such file or directory: data
+[W 2020-12-03 23:11:57.600 ServerApp] No such file or directory: data
+[W 2020-12-03 23:11:57.601 ServerApp] 404 GET /api/contents/data?1607065917597 (127.0.0.1) 1.09ms referer=http://0.0.0.0:7413/lab
+[I 2020-12-03 23:12:01.184 ServerApp] Kernel started: e58ef798-dd21-48af-87e9-f5764458cfb9
+[I 2020-12-03 23:12:01.808 ServerApp] Starting buffering for e58ef798-dd21-48af-87e9-f5764458cfb9:c1bb8c4c-aa36-45ad-934d-10664c2ac5eb
+[W 2020-12-03 23:12:01.838 ServerApp] 404 GET /static/favicons/favicon-busy-1.ico (127.0.0.1) 1.28ms referer=http://0.0.0.0:7413/lab/tree/master.ipynb
+[W 2020-12-03 23:12:01.842 ServerApp] 404 GET /static/favicons/favicon-busy-1.ico (127.0.0.1) 0.95ms referer=http://0.0.0.0:7413/lab/tree/master.ipynb
+[W 2020-12-03 23:12:05.030 ServerApp] 404 GET /static/favicons/favicon-busy-1.ico (127.0.0.1) 0.85ms referer=http://0.0.0.0:7413/lab/tree/master.ipynb
+2020-12-03 23:12:07.081463: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+2020-12-03 23:12:07.081529: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 2020-12-03 23:14:01.053 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:18:01.089 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:20:01.120 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:22:01.154 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:24:01.187 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:26:01.221 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:27:06.748 ServerApp] Saving file at /master.ipynb
+[I 2020-12-03 23:27:59.612 ServerApp] Creating new notebook in 
+[I 2020-12-03 23:27:59.807 ServerApp] Kernel started: a2a7a7d8-b838-47d8-85fb-5a1998e369ed
+[I 2020-12-03 23:28:12.292 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:28:19.480 ServerApp] Kernel started: 4c4b6079-c051-4c47-ac6f-6bd1e8aeb205
+2020-12-03 23:28:29.077107: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+2020-12-03 23:28:29.077142: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 2020-12-03 23:28:33.322 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:30:12.959 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:31:54.800 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:33:54.823 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:35:54.872 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:37:54.897 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:39:04.529 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:39:20.909 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:40:33.473 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:44:33.503 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:46:33.555 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:46:34.505 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:47:46.256 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:49:46.284 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:51:46.335 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:52:41.910 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:53:12.248 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:54:39.642 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:54:51.536 ServerApp] Saving file at /review.ipynb
+[I 2020-12-03 23:58:51.578 ServerApp] Saving file at /review.ipynb
+[I 2020-12-04 00:02:51.615 ServerApp] Saving file at /review.ipynb
+[I 2020-12-04 00:04:51.654 ServerApp] Saving file at /review.ipynb
+[I 2020-12-04 00:06:22.280 ServerApp] Saving file at /review.ipynb
+[I 2020-12-04 00:07:53.455 ServerApp] Starting buffering for 4c4b6079-c051-4c47-ac6f-6bd1e8aeb205:58e61503-8305-423f-bd67-4bc9debae9ae
+[I 2020-12-04 00:07:53.456 ServerApp] Starting buffering for a2a7a7d8-b838-47d8-85fb-5a1998e369ed:49169e9c-aa10-4dfe-b46d-e17af8503199
+[I 2020-12-04 00:07:53.456 ServerApp] Starting buffering for e58ef798-dd21-48af-87e9-f5764458cfb9:689e055d-6abb-4f55-990b-11396913c601
